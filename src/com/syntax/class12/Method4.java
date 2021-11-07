@@ -21,5 +21,7 @@ public class Method4 {
 	}
 	String method5(String mariam) {
 		return "Aysha";
+		//reuturn "s";
+		//System.out.println("hi");
 	}
 }
